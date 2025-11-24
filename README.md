@@ -38,5 +38,4 @@ My initial work is preserved separately to clearly show my personal contribution
 
 ---
 
-## 📂 Repository Structure
 
